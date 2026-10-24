@@ -11,6 +11,7 @@ Connect key switches and pins for WCH-LinkE (writer) to UIAPduino.
 <img src="/images/controller-circuit.png" height="400px">
 
 # 3D Model
+[models](https://www.thingiverse.com/thing:7426392)
 
 # Building the Firmware
 ## Prerequisites
@@ -31,3 +32,6 @@ cd src
 make
 make flash
 ```
+
+## How to use
+Just connect USB C-port on Dodecahedron keyboard to PC and push switches.
