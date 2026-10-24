@@ -1,30 +1,31 @@
 # Overview
-Dodecahedron keyboard is a three-dimensional USB keyboard.
+The Dodecahedron keyboard is an experimental three-dimensional USB keyboard with an unusual layout.
 
-We can type With the Dodecahedron keyboard very efficiently.
+The Dodecahedron keyboard is ergonomically designed and allows you to type efficiently.
 
 This project is based on [rv003usb](https://github.com/cnlohr/rv003usb)
 
 # Hardware
-Connect key switches and pins for WCH-LinkE (writer) to UIAPduino.
+Connect the key switches and pins for WCH-LinkE (writer) to the UIAPduino.
 
 <img src="/images/controller-circuit.png" height="400px">
 
 # 3D Model
-[models](https://www.thingiverse.com/thing:7426392)
+The 3D models are available on [Thingiverse](https://www.thingiverse.com/thing:7426392)
 
 # Building the Firmware
 ## Prerequisites
-This project uses [ch32fun](https://github.com/cnlohr/ch32fun) (SDK) and WCH-LinkE (writer).
+This project uses [ch32fun SDK](https://github.com/cnlohr/ch32fun) and WCH-LinkE programmer.
 
-Please install the required tools in [this page](https://github.com/cnlohr/ch32fun/wiki/Installation) beforehand.
+Install the required tools by following the instructions on [this page](https://github.com/cnlohr/ch32fun/wiki/Installation).
 
 ## Repository
-Clone this project and initialize submodules with the following command.
+Clone this repository and initialize submodules using the following commands.
 
 ```
 git submodule update --init --recursive
 ```
+
 ## Build and Flash
 Connect your WCH-LinkE to your PC and the UIAPduino pins (5V/GND/SWIO) then run the following commands.
 ```
@@ -34,4 +35,4 @@ make flash
 ```
 
 ## How to use
-Just connect USB C-port on Dodecahedron keyboard to PC and push switches.
+Connect the Dodecahedron Keyboard to your PC using a USB-C cable, then press keys to start typing.
