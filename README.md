@@ -5,7 +5,7 @@ The Dodecahedron keyboard is ergonomically designed and allows you to type effic
 
 This project is based on [rv003usb](https://github.com/cnlohr/rv003usb)
 
-<img src="/images/dodecahedron-keyboard-photo.jpg" height="200px">
+[![The world cheapest DIY Leverless](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F7mj5RYsmdnM)](https://youtu.be/7mj5RYsmdnM) <img src="/images/dodecahedron-keyboard-photo.jpg" height="180px">
 
 # Hardware
 Connect the key switches and pins for WCH-LinkE (writer) to the UIAPduino.
