@@ -36,5 +36,11 @@ make
 make flash
 ```
 
-## How to use
+# How to use
 Connect the Dodecahedron Keyboard to your PC using a USB-C cable, then press keys to start typing.
+
+# Bill of Material
+* [UIAPduino](https://www.uiap.jp/uiapduino/pro-micro/ch32v003/)
+* key switches x 11
+* keycaps x 11
+* screw x 2
