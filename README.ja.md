@@ -1,3 +1,5 @@
+[Engilish](./README.md) | [Japanese](./README.ja.md)
+
 # 概要
 ドデカヘドロンキーボードは正十二面体形状のUSBキーボードです。
 

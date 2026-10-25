@@ -1,3 +1,5 @@
+[Engilish](./README.md) | [Japanese](./README.ja.md)
+
 # Overview
 The Dodecahedron keyboard is an experimental three-dimensional USB keyboard with an unusual layout.
 
